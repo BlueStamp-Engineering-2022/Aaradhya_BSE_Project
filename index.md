@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿# Omni Robot
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | School | **Area of Interest** | Sophomore |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Aaradhya Patil | Saratoga High School  | Electrical Engineering | Incoming Sophomore 
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
