@@ -25,5 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 # Starter Project
 My starter project is the Useless Machine and its purpose is to turn it self off everytime I flick the switch. It works with a on/off switch connected to a motorized arm via PCB board. What I enjoyed about this project is soldering different components onto a PCB board. What I struggled with on this project, is that wires started breaking out of the motor due to the compactness of the build. But I overcame this problem by deconstructing the build and soldering the wires back in place on the motor. As this was my first major project with the parts involved I learned principal information about sautering different motors, snap switches, wire terminals, resistors and how they connect onto circuit board in a way to create a project with purpose.
  
+ [![Aaradhya Starter Project](https://res.cloudinary.com/dcmaxyfom/image/upload/v1657729233/blue_s1n9xl.png)](https://www.youtube.com/watch?v=qFpPFgG7eOc)
  
 
