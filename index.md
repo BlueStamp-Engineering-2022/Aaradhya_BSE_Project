@@ -18,7 +18,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 
 # First Milestone
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+
+My first milestone in the Onmi Robot project was controlling a motor using a wireless playstation 2 controller. To acheive this goal I used a wireless receiver and connected it to my ardiuno, this way I was able to send signals from my playstation controller to my arduino. By usign a library online the arduino can understand the signals from the receiver, and turn it into commands the arduino can send to my motor controller which then moves the motor in the direction I want. I enjoyed wiring different components of my build together as sending power, and signals was very straight forward. I struggled a lot with using the library online as it was over 12 years old and very inconsistant. I also struggled working with the playstation 2 controller because it took several restarts of the arduino to sync up. I learned a lot about coding an arduino as I have never used an arduino in a project before.
 
 
 
