@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | School | **Area of Interest** | Grade |
 |:--:|:--:|:--:|:--:|
-| Aaradhya Patil | Saratoga High School  | Electrical Engineering | Rising Sophomore 
+| Aaradhya | Saratoga High School  | Electrical Engineering | Rising Sophomore 
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -13,7 +13,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
 My Second Milestone in the Omni Robot Project was controlling 3 motors together to move in any direction using a wireless playstation 2 controller. To acheive this goal I was able to map my analog joysticks on my controller and calculate how much speed and direction each wheel should move. This way my Robot can now move in any direction and rotate left and right with the right joystick. I enjoyed organising all the different components onto the board and making it look clean enough. I struggled a lot with the code but with the help of my instructors and fellow students I was able to complete the code after lots of debugging and trouble. I learned a lot about how fumctions and calculation can be used in my project.
 
