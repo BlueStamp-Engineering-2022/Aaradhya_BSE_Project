@@ -8,7 +8,8 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+
+My final milestone is building a roof ontop of my project. This will make my robot really sturdy, hide my wires and overall make my project look cooler. I was able to use 3 short pillars from another project and place the roof ontop. The project however stops my ability to know which way is straight so I will put a cool design ontop so I know which way my Omni-bot is facing.
 
 
 
@@ -22,7 +23,7 @@ My Second Milestone in the Omni Robot Project was controlling 3 motors together 
 
 My first milestone in the Onmi Robot project was controlling a motor using a wireless playstation 2 controller. To acheive this goal I used a wireless receiver and connected it to my ardiuno, this way I was able to send signals from my playstation controller to my arduino. By usign a library online the arduino can understand the signals from the receiver, and turn it into commands the arduino can send to my motor controller which then moves the motor in the direction I want. I enjoyed wiring different components of my build together as sending power, and signals was very straight forward. I struggled a lot with using the library online as it was over 12 years old and very inconsistant. I also struggled working with the playstation 2 controller because it took several restarts of the arduino to sync up. I learned a lot about coding an arduino as I have never used an arduino in a project before.
 
-[!Aaradhya First Milestone]
+[![Aaradhya's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658440606/video_to_markdown/images/youtube--FLdsaJiFmqw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=FLdsaJiFmqw "Aaradhya's First Milestone")
 
 
 # Starter Project
