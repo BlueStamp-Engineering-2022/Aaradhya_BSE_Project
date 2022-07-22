@@ -12,6 +12,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 My final milestone is building a roof ontop of my project. This will make my robot really sturdy, hide my wires and overall make my project look cooler. I was able to use 3 short pillars from another project and place the roof ontop. The project however stops my ability to know which way is straight so I will put a cool design ontop so I know which way my Omni-bot is facing.
 
+[![Aaradhya Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658510709/video_to_markdown/images/youtube--QIYZAqZ4Y0c-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QIYZAqZ4Y0c "Aaradhya Third Milestone")
 
 
 # Second Milestone
