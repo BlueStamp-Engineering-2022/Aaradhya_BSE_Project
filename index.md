@@ -5,7 +5,8 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Aaradhya | Saratoga High School  | Electrical Engineering | Rising Sophomore 
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)![L1003687](https://user-images.githubusercontent.com/108752075/180488554-3d5461fb-2cbc-49a3-9ed5-de496c214d10.JPG)
+
   
 # Final Milestone
 
