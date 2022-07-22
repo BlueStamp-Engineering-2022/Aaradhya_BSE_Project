@@ -17,7 +17,7 @@ My final milestone is building a roof ontop of my project. This will make my rob
 
 My Second Milestone in the Omni Robot Project was controlling 3 motors together to move in any direction using a wireless playstation 2 controller. To acheive this goal I was able to map my analog joysticks on my controller and calculate how much speed and direction each wheel should move. This way my Robot can now move in any direction and rotate left and right with the right joystick. I enjoyed organising all the different components onto the board and making it look clean enough. I struggled a lot with the code but with the help of my instructors and fellow students I was able to complete the code after lots of debugging and trouble. I learned a lot about how fumctions and calculation can be used in my project.
 
-
+[![Aaradhya Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658507356/video_to_markdown/images/google-drive--1tM8EhreVlRwpyMuumre4vFdfXZAMJpWD-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1tM8EhreVlRwpyMuumre4vFdfXZAMJpWD/view?usp=sharing "Aaradhya Second Milestone")
 
 # First Milestone
 
